@@ -4,6 +4,8 @@ Welcome to my Github account!
 
 Enjoy your visit and take wherever you want, this is free software :)
 
+- 😄 Never Surrender!
+
 <!--
 **MAInformatico/MAInformatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
