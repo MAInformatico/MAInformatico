@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Welcome to my Github account!
+### Welcome to my Github account! 👋
 
 Enjoy your visit and take wherever you want, this is free software :)
 
