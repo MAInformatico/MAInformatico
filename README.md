@@ -3,7 +3,6 @@
 Enjoy your visit and take wherever you want, this is free software :)
 
 - 😄 Never Surrender!
-- 🌱 I’m currently learning Flask
 - ⚡ Fun fact: If I am not working or coding, probably I will working out, reading or playing chess
 
 <!--
