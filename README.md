@@ -3,7 +3,8 @@
 Enjoy your visit and take wherever you want, this is free software :)
 
 - 😄 Never Surrender!
-- 🤔 I'm currently reading Introduction to Algorithms
+- 📖 I'm currently reading Clean Coder
+- 💻 I'm deeplying my knowledge of algorithm using Introduction to Algorithms
 - ⚡ Fun fact: If I am not working or coding, probably I will working out, reading or playing chess
 
 <!--
