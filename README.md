@@ -1,4 +1,15 @@
 ### Welcome to my Github account! 👋
+<p align="center"> 
+  <a href="http://www.linkedin.com/in/magutierrezinformatica/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/mainformatico">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/5182470/mainformatico">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+</p>
 
 Enjoy your visit and take wherever you want, this is free software :)
 
