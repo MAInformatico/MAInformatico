@@ -1,4 +1,3 @@
-### Welcome to my Github account! 👋
 <p align="center"> 
   <a href="http://www.linkedin.com/in/magutierrezinformatica/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,6 +9,8 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
+
+### Welcome to my Github account! 👋
 
 Enjoy your visit and take wherever you want, this is free software :)
 
