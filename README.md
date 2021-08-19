@@ -20,6 +20,9 @@ Enjoy your visit and take wherever you want, this is free software :)
 - 🌱 I'm curious about Django
 - ⚡ Fun fact: If I am not working or coding, probably I will working out, reading or playing chess
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)
+
+
 <!--
 **MAInformatico/MAInformatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
