@@ -1,5 +1,15 @@
 ### Welcome! 👋
 
+Enjoy your visit and take wherever you want, this is free software :)
+
+- 😄 Never Surrender!
+- 📖 I'm currently reading The Clean Coder
+- 💻 I'm deeplying my knowledge of algorithm using Introduction to Algorithms
+- 🌱 I'm curious about Django
+- ⚡ Fun fact: If I am not working or coding, probably I will working out, reading or playing chess
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)
+
 <p align="center"> 
   <a href="http://www.linkedin.com/in/magutierrezinformatica/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,17 +21,6 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
-
-Enjoy your visit and take wherever you want, this is free software :)
-
-- 😄 Never Surrender!
-- 📖 I'm currently reading The Clean Coder
-- 💻 I'm deeplying my knowledge of algorithm using Introduction to Algorithms
-- 🌱 I'm curious about Django
-- ⚡ Fun fact: If I am not working or coding, probably I will working out, reading or playing chess
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)
-
 
 <!--
 **MAInformatico/MAInformatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
