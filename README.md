@@ -2,6 +2,7 @@
 
 Enjoy your visit and take wherever you want, this is free software :)
 
+|Tables| 
 <p align="center"> 
   <a href="http://www.linkedin.com/in/magutierrezinformatica/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,9 +17,13 @@ Enjoy your visit and take wherever you want, this is free software :)
     <img alt="dev" src="https://camo.githubusercontent.com/a9a2d68ad493ff831774f24528ff151a3fd455c80122dcaa44af2475300b51b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d7768697465"/>
   </a>
 </p>
+|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)
 
+|
+
+| |--------------------------------------------------- | |--------------------------------------------- |
 
 - 😄 Never Surrender!
 - 📖 I'm currently reading The Clean Coder
