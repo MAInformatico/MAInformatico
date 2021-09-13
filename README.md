@@ -1,5 +1,7 @@
 ### Welcome! 👋
 
+Enjoy your visit and take wherever you want, this is free software :)
+
 <p align="center"> 
   <a href="http://www.linkedin.com/in/magutierrezinformatica/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,7 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)
 
-Enjoy your visit and take wherever you want, this is free software :)
 
 - 😄 Never Surrender!
 - 📖 I'm currently reading The Clean Coder
