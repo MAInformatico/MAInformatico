@@ -18,7 +18,9 @@ Enjoy your visit and take wherever you want, this is free software :)
   </p>
   
   <p align = "right">
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)        
+  
   <p>
 
 
