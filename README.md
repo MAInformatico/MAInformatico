@@ -2,7 +2,7 @@
 
 Enjoy your visit and take wherever you want, this is free software :)
 
-  <p align="center">
+  <p align="left">
     <a href="http://www.linkedin.com/in/magutierrezinformatica/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
