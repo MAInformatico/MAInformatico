@@ -20,9 +20,9 @@ Enjoy your visit and take wherever you want, this is free software :)
     </a>
   </p>
     </td>
-    <td>
+  </tr>
+   <tr>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)      
-    </td>
   </tr>
 </table>
 
