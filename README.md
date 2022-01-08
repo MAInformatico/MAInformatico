@@ -1,4 +1,5 @@
 ### Welcome! 👋
+![](https://komarev.com/ghpvc/?username=MAInformatico)
 
 Enjoy your visit and take wherever you want, this is free software :)
 
