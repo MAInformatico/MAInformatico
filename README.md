@@ -18,6 +18,8 @@ Enjoy your visit and take wherever you want, this is free software :)
     </a>
   </p>
   
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=edorado93&show_icons=true&theme=dracula" /> 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)            
   
 
