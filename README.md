@@ -27,7 +27,7 @@ Enjoy your visit and take wherever you want, this is free software :)
 - :running: Men sana in corpore sano
 - 💻 I'm deeplying my knowledge of algorithm using Introduction to Algorithms
 - :books: Reading The Pragmatic Programmer
-- 🌱 I'm curious about Django
+- 🌱 I'm curious about Django and ReactJS
 - ⚡ Fun fact: If I am not working or coding, probably I will be working out, reading or playing chess
 
 
