@@ -5,13 +5,13 @@ Enjoy your visit and take wherever you want, this is free software :)
 
   <p align="left">
     <a href="http://www.linkedin.com/in/magutierrezinformatica/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width=90/>
     </a>
     <a href="https://twitter.com/mainformatico">
-      <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmainformatico">
+      <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmainformatico"width=68>
     </a>
     <a href="https://stackoverflow.com/users/5182470/mainformatico">
-      <img alt="Stack Overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
+      <img alt="Stack Overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg" width=148/>
     </a>
   </p>
   
@@ -28,18 +28,50 @@ Enjoy your visit and take wherever you want, this is free software :)
 - ⚡ Fun fact: If I am not working or coding, probably I will be working out, reading or playing chess
 
 
+<h3 align="left"> Languages and Tools:</h3>
+- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/>
+  </a>
+  
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>  
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/>
+  </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  
+  
+  
+  
 
-<!--
-**MAInformatico/MAInformatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Technologies Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Development**:  HTML5, CSS3, jQuery, XML, ReactJS
+- **Backend Development**: Django, Node.js, PHP, Python
+- **Programming Languages**: C, C++, C#, Java, JavaScript, Python, Bash
+- **Database Management**: Oracle, MySQL
+- **Version Control**: Git
+- **IoT and Hardware**: Arduino, Raspberry Pi
