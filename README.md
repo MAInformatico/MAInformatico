@@ -68,7 +68,7 @@ Enjoy your visit and take wherever you want, this is free software :)
 ## Technologies Used
 
 - **Frontend Development**:  HTML5, CSS3, jQuery, XML, ReactJS
-- **Backend Development**: Django, Node.js, PHP, Python3
+- **Backend Development**: Django, Node.js, Python3
 - **Programming Languages**: C, C++, Java, JavaScript, Python, Bash
 - **Database Management**: Oracle, MySQL
 - **Version Control**: Git
