@@ -59,6 +59,12 @@ Enjoy your visit and take wherever you want, this is free software :)
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  </a>
+    <a href="https://aws.amazon.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" alt="react" width="40" height="40"/>
+  </a>
+  </a>
+  
   
   
   
