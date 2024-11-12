@@ -14,18 +14,12 @@ Enjoy your visit and take wherever you want, this is free software :)
       <img alt="Stack Overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg" width=148/>
     </a>
   </p>
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MAInformatico&show_icons=true&theme=dracula" /> 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAInformatico&layout=compact)            
-  
 
-- 😄 Never Surrender!
-- :running: Men sana in corpore sano
-- 💻 I'm deeplying my knowledge of algorithm using Introduction to Algorithms book
-- :books: Reading The Pragmatic Programmer
-- 🌱 I'm curious about Django, ReactJS and obviously AI.
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
+   
 <h3 align="left"> Languages and Tools:</h3>
 - <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
@@ -64,18 +58,13 @@ Enjoy your visit and take wherever you want, this is free software :)
     <img src="https://skillicons.dev/icons?i=aws" alt="react" width="40" height="40"/>
   </a>
   </a>
-  
-  
-  
-  
-  
 
 
 ## Technologies Used
 
 - **Frontend Development**:  HTML5, CSS3, jQuery, XML, ReactJS
 - **Backend Development**: Django, Node.js, Python3
-- **Programming Languages**: C, C++, Java, JavaScript, Python, Bash
+- **Programming Languages**: Java, JavaScript, Python, Bash
 - **Database Management**: Oracle, MySQL
 - **Version Control**: Git
 - **IoT and Hardware**: Arduino, Raspberry Pi
