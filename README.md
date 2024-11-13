@@ -18,7 +18,7 @@
 </picture>
 
    
-### Languages and Tools
+#### Languages and Tools
 ![Languages](https://skillicons.dev/icons?i=python,js,bash)
 
 #### Frontend Technologies
