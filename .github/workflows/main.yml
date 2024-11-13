@@ -31,6 +31,7 @@ jobs:
           config_twemoji: true
           plugin_languages: true
           plugin_languages_ignored: Hack
+          plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
