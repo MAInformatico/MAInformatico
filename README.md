@@ -9,7 +9,7 @@ I'm **Miguel Angel**, a passionate **Backend Developer** focused on **Python**, 
 ![Languages](https://skillicons.dev/icons?i=python,js,bash)
 
 ### Frontend Technologies:
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,jquery)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,jquery)
 
 ### Backend Technologies:
 [![Backend Technologies](https://skillicons.dev/icons?i=aws,django,flask,nodejs,docker,fastapi)](https://skillicons.dev)
