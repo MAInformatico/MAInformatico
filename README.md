@@ -12,20 +12,30 @@ Databases: PostgreSQL, Redis, MySQL — data modeling & optimization
 Infrastructure: AWS, Docker — deployment and containerization  
 
 ## 🚀 What I bring
-- Designed and maintained REST APIs in production environments  
-- Improved database performance through SQL optimization  
-- Debugged backend systems to enhance reliability and stability
+- Designed and maintained APIs in high-availability production environments within enterprise banking systems
+- Worked on integration layers between Python services and Java-based backend ecosystems
+- Optimized data flows and database queries under production load constraints
+
+## Engineering Focus
+- Distributed backend systems
+- Event-driven architectures
+- API integration in enterprise environments
+- Data consistency and performance under load
 
 ## 🚀 Featured Projects
-- **TeacherTool** – Backend tool for calculating student performance and test averages by subject (Python, FastAPI)
+- **TeacherTool** – Backend service for processing and aggregating structured data using Python APIs and service-oriented design principles. (Python, FastAPI)
 - **HAContainerized** – Dockerized Home Assistant setup for Raspberry Pi with PM10 particle monitoring alerts (Docker, Home Assistant, Telegram API) 
-- **TelegramBot** – Monitoring bot for real-time server status notifications (Python, Bash, Docker)
+- **TelegramBot** – Asynchronous event-driven services built with Python, simulating notification pipelines and background job processing. (Python, Bash, Docker)
 - **RunnerBot** – Weather bot for runners providing temperature and humidity data (Python, Docker) 
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/magutierrez-backend-developer/?locale=en-US)
 - [Twitter](https://twitter.com/mainformatico)
 - [Stack Overflow](https://stackoverflow.com/users/5182470/mainformatico)
+
+Backend engineering portfolio focused on distributed systems, event-driven architecture, and API design patterns, built alongside 6+ years of experience in enterprise environments across banking, energy, and retail sectors.
+Experience in regulated, high-reliability systems with strict performance and availability constraints, collaborating with Java-based backend teams in heterogeneous architectures.
+Primary stack: Python-based backend services integrated into enterprise ecosystems.
 
 ## 📊 GitHub Metrics
 Here’s a snapshot of my current GitHub activity:
