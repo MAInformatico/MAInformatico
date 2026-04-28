@@ -6,7 +6,7 @@ I'm **Miguel Angel**, a **Backend Developer** focused on **Python**, **APIs**,wi
 
 I specialize in designing REST APIs, working with databases, and improving system performance and reliability.
 
-## 🛠 Techn Stack:
+## 🛠 Tech Stack:
 ### Languages & Tools:
 ![Languages](https://skillicons.dev/icons?i=python,bash,sql)
 
