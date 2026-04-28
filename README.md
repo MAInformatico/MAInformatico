@@ -1,24 +1,26 @@
-# Welcome to my GitHub! 👋
+# Backend Developer | Python & APIs
 
 ![](https://komarev.com/ghpvc/?username=MAInformatico)
 
-I'm **Miguel Angel**, a **Backend Developer** focused on **Python**, **APIs**,with experience building and maintaining scalable systems in production environments.
+Backend Developer specialized in Python and REST APIs, focused on building reliable, scalable and maintainable backend systems in production environments.
 
-I specialize in designing REST APIs, working with databases, and improving system performance and reliability.
+Experienced in API integrations, database performance, and backend reliability.
 
-## 🛠 Tech Stack:
-### Languages & Tools:
-![Languages](https://skillicons.dev/icons?i=python,bash,sql)
+## 🛠 Tech Stack
+Main stack: Python (FastAPI) — backend API development  
+Databases: PostgreSQL, Redis, MySQL — data modeling & optimization  
+Infrastructure: AWS, Docker — deployment and containerization  
 
-### Backend Technologies:
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,django,flask,fastapi)](https://skillicons.dev)
+## 🚀 What I bring
+- Designed and maintained REST APIs in production environments  
+- Improved database performance through SQL optimization  
+- Debugged backend systems to enhance reliability and stability
 
-### Databases:
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
-
-### Other Tools & Technologies:
-![Others](https://skillicons.dev/icons?i=vscode,docker,git,github,gitlab,linux,raspberrypi)
-
+## 🚀 Featured Projects
+- **TeacherTool** – Backend tool for calculating student performance and test averages by subject (Python, FastAPI)
+- **HAContainerized** – Dockerized Home Assistant setup for Raspberry Pi with PM10 particle monitoring alerts (Docker, Home Assistant, Telegram API) 
+- **TelegramBot** – Monitoring bot for real-time server status notifications (Python, Bash, Docker)
+- **RunnerBot** – Weather bot for runners providing temperature and humidity data (Python, Docker) 
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/magutierrez-backend-developer/?locale=en-US)
