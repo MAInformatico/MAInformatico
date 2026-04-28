@@ -2,27 +2,26 @@
 
 ![](https://komarev.com/ghpvc/?username=MAInformatico)
 
-I'm **Miguel Angel**, a passionate **Backend Developer** focused on **Python**, **APIs**, and building scalable systems. I thrive in environments where I can solve complex problems and create robust backend architectures.
+I'm **Miguel Angel**, a **Backend Developer** focused on **Python**, **APIs**,with experience building and maintaining scalable systems in production environments.
 
-## 🛠 Technologies I use:
+I specialize in designing REST APIs, working with databases, and improving system performance and reliability.
+
+## 🛠 Techn Stack:
 ### Languages & Tools:
-![Languages](https://skillicons.dev/icons?i=python,js,bash)
-
-### Frontend Technologies:
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,jquery)
+![Languages](https://skillicons.dev/icons?i=python,bash,sql)
 
 ### Backend Technologies:
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,django,flask,nodejs,docker,fastapi)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,django,flask,fastapi)](https://skillicons.dev)
 
 ### Databases:
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 
 ### Other Tools & Technologies:
-![Others](https://skillicons.dev/icons?i=vscode,git,github,gitlab,linux,pycharm,raspberrypi)
+![Others](https://skillicons.dev/icons?i=vscode,docker,git,github,gitlab,linux,raspberrypi)
 
 
 ## 📬 Let's Connect!
-- [LinkedIn](http://www.linkedin.com/in/magutierrezinformatica/)
+- [LinkedIn](https://www.linkedin.com/in/magutierrez-backend-developer/?locale=en-US)
 - [Twitter](https://twitter.com/mainformatico)
 - [Stack Overflow](https://stackoverflow.com/users/5182470/mainformatico)
 
