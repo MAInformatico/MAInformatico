@@ -29,7 +29,7 @@ Infrastructure: AWS, Docker — deployment and containerization
 - **RunnerBot** – Weather bot for runners providing temperature and humidity data (Python, Docker) 
 
 ## 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/magutierrez-backend-developer/?locale=en-US)
+- [LinkedIn](https://www.linkedin.com/in/magutierrez-backend-developer/)
 - [Twitter](https://twitter.com/mainformatico)
 - [Stack Overflow](https://stackoverflow.com/users/5182470/mainformatico)
 
