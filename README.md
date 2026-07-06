@@ -1,8 +1,8 @@
-# Backend Engineer | Python & APIs
+# Senior Backend Engineer | Python & APIs
 
 ![](https://komarev.com/ghpvc/?username=MAInformatico)
 
-Backend Engineer specialized in Python and REST APIs, focused on building reliable, scalable and maintainable backend systems in production environments.
+Senior Backend Engineer specialized in Python and REST APIs, focused on building reliable, scalable and maintainable backend systems in production environments.
 
 Experienced in API integrations, database performance, and backend reliability.
 
