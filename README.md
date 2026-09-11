@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=MAInformatico)
 
-Senior Backend Engineer specialized in Python and REST APIs, focused on building reliable, scalable and maintainable backend systems in production environments.
+Backend Engineer with 6+ years of experience building and maintaining Python-based services and APIs in enterprise environments across banking, energy and retail.
+Focused on reliable backend systems, API design, distributed architectures and integrations across complex technical environments.
+Recently building independent projects around observability, edge infrastructure and LLM-powered backend services.
 
 Experienced in API integrations, database performance, and backend reliability.
 
@@ -22,20 +24,16 @@ Infrastructure: AWS, Docker — deployment and containerization
 - API integration in enterprise environments
 - Data consistency and performance under load
 
-## 🚀 Featured Projects
-- **TeacherTool** – Backend service for processing and aggregating structured data using Python APIs and service-oriented design principles. (Python, FastAPI)
-- **HAContainerized** – Dockerized Home Assistant setup for Raspberry Pi with PM10 particle monitoring alerts (Docker, Home Assistant, Telegram API) 
-- **TelegramBot** – Asynchronous event-driven services built with Python, simulating notification pipelines and background job processing. (Python, Bash, Docker)
-- **RunnerBot** – Weather bot for runners providing temperature and humidity data (Python, Docker) 
+## 🚀 Featured Projects## 🚀 Featured Projects
+- [Job Offer Analyzer](https://github.com/MAInformatico/job-offer-analyzer) – Backend service for automated job-offer analysis using FastAPI, LLMs and external data sources. (Python, FastAPI, Docker)
+- [Edge Observability Pipeline](https://github.com/MAInformatico/Edge-Observability-Pipeline) – Lightweight distributed observability and alerting system designed for resource-constrained environments. (Python, rsyslog, systemd, Docker)
+- [TeacherTool](https://github.com/MAInformatico/TeacherTool) – Backend service for processing and aggregating structured data using Python APIs and service-oriented design principles. (Python, FastAPI, Docker)
+- [HAContainerized](https://github.com/MAInformatico/HAContainerized) – Containerized Home Assistant setup for Raspberry Pi with monitoring and automated alerts. (Docker, Home Assistant, Python)
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/magutierrez-backend-developer/)
 - [Twitter](https://twitter.com/mainformatico)
 - [Stack Overflow](https://stackoverflow.com/users/5182470/mainformatico)
-
-Backend engineering portfolio focused on distributed systems, event-driven architecture, and API design patterns, built alongside 6+ years of experience in enterprise environments across banking, energy, and retail sectors.
-Experience in regulated, high-reliability systems with strict performance and availability constraints, collaborating with Java-based backend teams in heterogeneous architectures.
-Primary stack: Python-based backend services integrated into enterprise ecosystems.
 
 ## 📊 GitHub Metrics
 Here’s a snapshot of my current GitHub activity:
