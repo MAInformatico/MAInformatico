@@ -24,7 +24,7 @@ Infrastructure: AWS, Docker — deployment and containerization
 - API integration in enterprise environments
 - Data consistency and performance under load
 
-## 🚀 Featured Projects## 🚀 Featured Projects
+## 🚀 Featured Projects
 - [Job Offer Analyzer](https://github.com/MAInformatico/job-offer-analyzer) – Backend service for automated job-offer analysis using FastAPI, LLMs and external data sources. (Python, FastAPI, Docker)
 - [Edge Observability Pipeline](https://github.com/MAInformatico/Edge-Observability-Pipeline) – Lightweight distributed observability and alerting system designed for resource-constrained environments. (Python, rsyslog, systemd, Docker)
 - [TeacherTool](https://github.com/MAInformatico/TeacherTool) – Backend service for processing and aggregating structured data using Python APIs and service-oriented design principles. (Python, FastAPI, Docker)
