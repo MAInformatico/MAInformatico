@@ -2,9 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MAInformatico)
 
-Senior Backend Engineer with 6+ years of experience building and maintaining Python-based services and APIs in enterprise environments across banking, energy and retail.
-Focused on reliable backend systems, API design, distributed architectures and integrations across complex technical environments.
-Recently building independent projects around observability, edge infrastructure and LLM-powered backend services.
+Senior Backend Engineer with 6+ years building Python APIs in high-availability enterprise environments (banking, energy, retail). Focused on API design, distributed systems and reliability. Recently exploring LLM-powered backend services through independent projects.
 
 Experienced in API integrations, database performance, and backend reliability.
 
