@@ -1,4 +1,4 @@
-# Senior Backend Engineer | Python & APIs
+# Backend Engineer building AI-powered systems — Python, FastAPI, LLMs, RAG, Agents
 
 ![](https://komarev.com/ghpvc/?username=MAInformatico)
 
